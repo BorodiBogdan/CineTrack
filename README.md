@@ -1,7 +1,7 @@
 
-# Local Movie Database – Movie Management App
+# CineTrack – Movie Management App
 
-Local Movie Database is a movie management app that provides a dual-mode system for administrators and users. Administrators can manage movie data using full CRUD (Create, Read, Update, Delete) operations, while users can create personalized watchlists. The app features data visualizations and charts to enhance the user experience.
+CineTrack is a movie management app that provides a dual-mode system for administrators and users. Administrators can manage movie data using full CRUD (Create, Read, Update, Delete) operations, while users can create personalized watchlists. The app features data visualizations and charts to enhance the user experience.
 
 ## Table of Contents
 
